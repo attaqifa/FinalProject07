@@ -4,5 +4,6 @@ public class Test {
         System.out.println("ini adalah update ke-1");
         System.out.println("ini adalah update ke-2");
         System.out.println("ini adalah update ke-3");
+        System.out.println("ini adalah update ke-4");
     }
 }
